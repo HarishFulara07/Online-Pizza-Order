@@ -1,0 +1,227 @@
+.nav a {
+    position: relative;
+    top: 40px;
+    color: #5a5a5a;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav p {
+    position: relative;
+    top: 40px;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+    border: solid black;
+}
+
+.nav a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav li p {
+    display: inline;
+}
+
+.nav img {
+    height: 100px;
+    width: 500px;
+}
+
+.jumbotron {
+    background-image:url('http://www.youwall.com/papel/pizza_wallpaper_7cf74.jpg');
+    height: 480px;
+    /*width: 1278px;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.credit h2{
+    position: absolute;
+    color: #FF4500;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: underline;
+    left: 500px;
+}
+
+.menu{
+    background-color: #FF3333;
+    border-bottom: 1px solid #dbdbdb;
+    font-family: sans-serif;
+}
+
+.menu h1{
+    color: yellow;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.menu p{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 13px;
+    font-weight: bold;
+}
+
+.order{
+    background-color: #efefef;
+    border: solid green;
+}
+
+.order label{
+    position: relative;
+    color: black;
+    left: 15px;
+    padding-top: 10px;
+}
+
+.order p{
+    position: relative;
+    color: green;
+    text-decoration: underline;
+    top: 10px;
+    text-align: center;
+    padding-bottom: 4px;
+}
+
+.checkbox label{
+    color: black;
+    font-weight: bold;
+}
+
+.radio label{
+    color: black;
+    font-weight: bold;
+}
+
+.button{
+    height: 70px;
+    margin-top: -5px;
+}
+
+#submit1{
+    
+    background-color: green;
+    position: relative;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: sans;
+    font-size: 20px;
+    border: solid black;
+    top: 20px;
+    left: 8px;
+}
+
+#submit2{
+    
+   	background-color: orange;
+    position: relative;
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: sans;
+    font-size: 20px;
+    border: solid black;
+    top: 20px;
+    left: 2px;
+}
+
+.form_design{
+    background-color: red;
+    height:500px;
+}
+
+.form_design h2{
+    color: yellow;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: sans-serif;
+    padding-left: 225px;
+    padding-top: 60px;
+}
+
+.form_design p{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 225px;
+    padding-top: 20px;
+}
+
+.form-group label{
+    color: black;
+    font-family: sans;
+}
+
+.track{
+    background-color: #00CED1;
+    border: solid black;
+}
+
+.track h2{
+    color: greenyellow;
+    font-weight: bold;
+    font-family: sans;
+    padding-left: 180px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+.track ol{
+    font-weight: bold;
+    color: black;
+    font-family: arial;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.trackbar{
+    background-color: gold;
+    padding: 30px 20px 20px 20px;
+    height: 80px;
+}
+
+.mytable{
+    background-color: #00CED1;
+    border: solid black;
+    border-radius: 10px;
+}
+
+#maintitle{
+    color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: sans;
+}
+
+#coltitle{
+    color: white;
+    font-size: 16px;
+    text-decoration: underline;
+    font-family: sans;
+}
+
+.mytable td{
+    color: black;
+    font-weight: bold;
+}
+
+.mytable input{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
