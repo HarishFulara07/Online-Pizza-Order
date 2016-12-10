@@ -18,6 +18,6 @@ States possible(transition possible in the same order): **Order Placed**, **Prep
 
 Customer is prompted to enter the order id. On submitting it, the progress of the order (Order Placed, Preparation, Bake, Quality Check, Out for delivery, Delivered) is displayed.
 
-## Restaurant Managerial view:
+## Restaurant Manager View:
 
 The manager is able to view all the pending(undelivered) orders and their state in tabular form, with an update button corresponding to each row. On clicking the update, the stage of that order gets incremented to the next stage.
